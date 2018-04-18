@@ -1,0 +1,42 @@
+
+
+ul{
+	border: 1px solid;
+	list-style-type: none;
+  
+    
+    display:inline-flex;
+   
+     background-color: #f1f1f1;
+     margin-bottom: 2vh;
+     width:100%;
+}
+
+li {
+    display:inline-flex;
+    color: #000;
+    padding: 2vw;
+    text-decoration: none;
+
+}
+
+li:hover {
+    background-color: #555;
+    color: white;
+     cursor: pointer;
+}
+
+
+
+.modal-btn{
+	display:block;
+	border:1px solid;
+	background-color: #f1f1f1
+	margin-top:25px;
+}
+.title-eg{
+    border-bottom: 6px solid red;
+    background-color: lightgrey;
+}
+
+
